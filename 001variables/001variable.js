@@ -4,10 +4,7 @@
     Copia el valor de name a admin.
     Muestra el valor de admin usando alert (debe salir “John Snow”).*/
 
-
 let name = "John Snow";
-
-admin = name; 
+admin = name;
 
 alert(admin);
-

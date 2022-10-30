@@ -4,6 +4,7 @@
 Crea una variable para almacenar el nombre del usuario actual de un sitio web. ¿Cómo 
 nombrarías a dicha variable?*/
 
-let sevilla;  
+let sevilla;
 
-let ciudadUser; 
+//Usaría una variable descriptiva:
+let currentUserName;
