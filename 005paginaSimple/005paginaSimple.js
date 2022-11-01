@@ -5,5 +5,5 @@
 //Con prompt creamos una alerta que solicita un dato al usuario. Lo guardamos
 let $nombre = prompt("Introduzca un nombre"); 
 
-//Con document.write podemos escribir en el HTML. 
+//Con document.write podemos escribir en el HTML, aunque no es recomendable 
 document.write($nombre);

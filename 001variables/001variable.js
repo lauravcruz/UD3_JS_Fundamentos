@@ -5,6 +5,7 @@
     Muestra el valor de admin usando alert (debe salir “John Snow”).*/
 
 let name = "John Snow";
+let admin;
 admin = name;
 
 alert(admin);

@@ -18,9 +18,10 @@ mayúsculas cuando el valor de dicha constante es difícil de recordar, es invar
 preeestablecido. Por ejemplo, un color. Antes de iniciar el programa ya se sabe su código 
 y que nunca va a cambiar en tiempo de ejecución. 
 
-Yo en el caso de cumpleaños y edad no utilizaría esta práctica. Tanto la fecha de nacimiento
+Para cumpleaños y edad no utilizaría esta práctica. Tanto la fecha de nacimiento
 como la edad son constantes que se van a guardar cuando se soliciten datos. No se conocen 
-antes de iniciar el programa. 
+antes de iniciar el programa. En todo caso, podría guardarse la fecha, que no puede variar. 
+La edad sí cambia. 
 
 De todas formas, podría justificarse su uso dado que el estándar en programación es escribir
 las constantes en mayúsculas. 
